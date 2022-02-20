@@ -1,0 +1,1381 @@
+[ 
+{ 
+"id":1,
+"category":"Toys & Treats",
+"sub_category":"Wholesale Dog Toys",
+"sub_sub_category":"Toy Displays",
+"url":"https://www.bosspetedge.com/toys-and-treats/dog-toys/toy-displays-377",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":2,
+"category":"Toys & Treats",
+"sub_category":"Wholesale Dog Toys",
+"sub_sub_category":"Stuffed Toys",
+"url":"https://www.bosspetedge.com/toys-and-treats/dog-toys/wholesale-stuffed-dog-toys",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":3,
+"category":"Toys & Treats",
+"sub_category":"Wholesale Dog Toys",
+"sub_sub_category":"Stuffing-Free Toys",
+"url":"https://www.bosspetedge.com/dog-toys/stuffing-free-toys",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":4,
+"category":"Toys & Treats",
+"sub_category":"Wholesale Dog Toys",
+"sub_sub_category":"Rope Toys",
+"url":"https://www.bosspetedge.com/dog-toys/rope-toys-372",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":5,
+"category":"Toys & Treats",
+"sub_category":"Wholesale Dog Toys",
+"sub_sub_category":"Nylon Toys",
+"url":"https://www.bosspetedge.com/dog-toys/nylon-toys",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":6,
+"category":"Toys & Treats",
+"sub_category":"Wholesale Dog Toys",
+"sub_sub_category":"Rubber Toys",
+"url":"https://www.bosspetedge.com/dog-toys/rubber-toys-373",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":7,
+"category":"Toys & Treats",
+"sub_category":"Wholesale Dog Toys",
+"sub_sub_category":"Latex Toys",
+"url":"https://www.bosspetedge.com/dog-toys/latex-toys-364",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":8,
+"category":"Toys & Treats",
+"sub_category":"Wholesale Dog Toys",
+"sub_sub_category":"Ball Toys",
+"url":"https://www.bosspetedge.com/dog-toys/ball-toys-354",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":9,
+"category":"Toys & Treats",
+"sub_category":"Wholesale Dog Toys",
+"sub_sub_category":"Interactive Dog Toys",
+"url":"https://www.bosspetedge.com/dog-toys/puzzle-and-interactive",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":10,
+"category":"Toys & Treats",
+"sub_category":"Wholesale Dog Toys",
+"sub_sub_category":"Dog Value Packs",
+"url":"https://www.bosspetedge.com/dog-toys/value-packs-485",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":11,
+"category":"Toys & Treats",
+"sub_category":"Wholesale Dog Toys",
+"sub_sub_category":"Holiday",
+"url":"https://www.bosspetedge.com/dog-toys/holiday",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":12,
+"category":"Toys & Treats",
+"sub_category":"Wholesale Dog Treats",
+"sub_sub_category":"Bones, Hooves & Antlers",
+"url":"https://www.bosspetedge.com/dog-treats/bones-and-hooves",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":13,
+"category":"Toys & Treats",
+"sub_category":"Wholesale Dog Treats",
+"sub_sub_category":"Meat Treats",
+"url":"https://www.bosspetedge.com/dog-treats/meat-treats-366",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":14,
+"category":"Toys & Treats",
+"sub_category":"Wholesale Dog Treats",
+"sub_sub_category":"Rawhide and Bully",
+"url":"https://www.bosspetedge.com/dog-treats/rawhide-and-bully-371",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":15,
+"category":"Toys & Treats",
+"sub_category":"Wholesale Dog Treats",
+"sub_sub_category":"Biscuits",
+"url":"https://www.bosspetedge.com/dog-treats/biscuits-355",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":16,
+"category":"Toys & Treats",
+"sub_category":"Wholesale Dog Treats",
+"sub_sub_category":"Dental Treats",
+"url":"https://www.bosspetedge.com/dog-treats/dental-treats-360",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":17,
+"category":"Toys & Treats",
+"sub_category":"Wholesale Dog Treats",
+"sub_sub_category":"Cookies",
+"url":"https://www.bosspetedge.com/dog-treats/cookies-359",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":18,
+"category":"Toys & Treats",
+"sub_category":"Wholesale Dog Treats",
+"sub_sub_category":"Holiday Treats",
+"url":"https://www.bosspetedge.com/dog-treats/holiday-treats",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":19,
+"category":"Toys & Treats",
+"sub_category":"Wholesale Cat Toys",
+"sub_sub_category":"Cat Value Packs",
+"url":"https://www.bosspetedge.com/cat-toys/value-packs",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":20,
+"category":"Toys & Treats",
+"sub_category":"Wholesale Cat Toys",
+"sub_sub_category":"Interactive Cat Toys",
+"url":"https://www.bosspetedge.com/cat-toys/interactive-toys",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":21,
+"category":"Toys & Treats",
+"sub_category":"Wholesale Cat Toys",
+"sub_sub_category":"Teaser Cat Toys",
+"url":"https://www.bosspetedge.com/cat-toys/teasers",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":22,
+"category":"Toys & Treats",
+"sub_category":"Wholesale Cat Toys",
+"sub_sub_category":"Canisters",
+"url":"https://www.bosspetedge.com/cat-toys/canisters",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":23,
+"category":"Toys & Treats",
+"sub_category":"Retailer Exclusive Dog Toys",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/toys-treats/retailer-exclusive-toys",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":24,
+"category":"Toys & Treats",
+"sub_category":"Retailer Exclusive Cat Toys",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/toys-and-treats/cat-toys/retailer-exclusive-cat-toys",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":25,
+"category":"Toys & Treats",
+"sub_category":"All New Toys & Treats",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/toys-and-treats/new-toys-treats",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":26,
+"category":"Toys & Treats",
+"sub_category":"Dog Toy Sale",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/sale-dealer/dog-toy-sale",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":27,
+"category":"Apparel",
+"sub_category":"Dresses",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-pet-apparel/pet-apparel/wholesale-dog-dresses",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":28,
+"category":"Apparel",
+"sub_category":"Tees & Tanks",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-pet-apparel/pet-apparel/wholesale-dog-tees-and-tanks",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":29,
+"category":"Apparel",
+"sub_category":"Coats & Jackets",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-pet-apparel/pet-apparel/dog-coats-and-jackets",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":30,
+"category":"Apparel",
+"sub_category":"Costumes",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-pet-apparel/pet-apparel/wholesale-dog-costumes",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":31,
+"category":"Apparel",
+"sub_category":"Hoodies & Sweatshirts",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-pet-apparel/pet-apparel/hoodies-and-sweatshirts",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":32,
+"category":"Apparel",
+"sub_category":"Sweaters",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-pet-apparel/pet-apparel/sweaters",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":33,
+"category":"Apparel",
+"sub_category":"Spring and Summer Apparel",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-pet-apparel/pet-apparel/wholesale-dog-spring-summer-apparel",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":34,
+"category":"Apparel",
+"sub_category":"Fall and Winter Apparel",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-pet-apparel/pet-apparel/fall-winter-apparel",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":35,
+"category":"Apparel",
+"sub_category":"Holiday",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-pet-apparel/pet-apparel/wholesale-holiday-dog-apparel",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":36,
+"category":"Apparel",
+"sub_category":"Outdoor Apparel",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-pet-apparel/pet-apparel/outdoor",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":37,
+"category":"Apparel",
+"sub_category":"Life Preservers ",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-pet-apparel/pet-apparel/pet-life-preservers",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":38,
+"category":"Apparel",
+"sub_category":"Footwear",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-pet-apparel/pet-apparel/wholesale-dog-footwear",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":39,
+"category":"Apparel",
+"sub_category":"Apparel Displays",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-pet-apparel/pet-apparel/apparel-displays",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":40,
+"category":"Apparel",
+"sub_category":"NEW! Pet Apparel ",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-pet-apparel/new-apparel-products",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":41,
+"category":"Apparel",
+"sub_category":"All Pet Apparel",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-pet-apparel/pet-apparel",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":42,
+"category":"Collars, Leads,  Harnesses",
+"sub_category":"Collars",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-dog-collars-leads-and-harnesses/collars",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":43,
+"category":"Collars, Leads,  Harnesses",
+"sub_category":"Leads",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-dog-collars-leads-and-harnesses/wholesale-dog-leads",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":44,
+"category":"Collars, Leads,  Harnesses",
+"sub_category":"Harnesses",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-dog-collars-leads-and-harnesses/harnesses",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":45,
+"category":"Collars, Leads,  Harnesses",
+"sub_category":"Couplers",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-dog-collars-leads-and-harnesses/wholesale-dog-couplers",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":46,
+"category":"Collars, Leads,  Harnesses",
+"sub_category":"Cat Collars & Leads",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-dog-collars-leads-and-harnesses/cat-collars-leads-harnesses",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":47,
+"category":"Collars, Leads,  Harnesses",
+"sub_category":"Wholesale Dog Training Supplies",
+"sub_sub_category":"Correction",
+"url":"https://www.bosspetedge.com/wholesale-dog-collars-leads-and-harnesses/wholesale-dog-training-supplies/correction",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":48,
+"category":"Collars, Leads,  Harnesses",
+"sub_category":"Wholesale Dog Training Supplies",
+"sub_sub_category":"Bark Control",
+"url":"https://www.bosspetedge.com/wholesale-dog-collars-leads-and-harnesses/wholesale-dog-training-supplies/bark-control",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":49,
+"category":"Collars, Leads,  Harnesses",
+"sub_category":"Wholesale Dog Training Supplies",
+"sub_sub_category":"Assorted Training ",
+"url":"https://www.bosspetedge.com/wholesale-dog-collars-leads-and-harnesses/wholesale-dog-training-supplies/assorted-training-products",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":50,
+"category":"Collars, Leads,  Harnesses",
+"sub_category":"Kennel Leads & Loops",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-dog-collars-leads-and-harnesses/handling/kennel-leads",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":51,
+"category":"Collars, Leads,  Harnesses",
+"sub_category":"Muzzles",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-dog-collars-leads-and-harnesses/handling/dog-muzzles",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":52,
+"category":"Collars, Leads,  Harnesses",
+"sub_category":"Alpha Key Exclusives",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-dog-collars-leads-and-harnesses/retailer-exclusives",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":53,
+"category":"Collars, Leads,  Harnesses",
+"sub_category":"All Collars, Leads & Harnesses",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-dog-collars-leads-and-harnesses",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":54,
+"category":"Collars, Leads,  Harnesses",
+"sub_category":"New Collars, Leads, Harnesses",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/wholesale-dog-collars-leads-and-harnesses/new-collars-leads-harnesses",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":55,
+"category":"Home & Travel",
+"sub_category":"Wholesale Dog Beds",
+"sub_sub_category":"Crate Mats & Beds",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/wholesale-dog-beds/crate-mats-and-beds",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":56,
+"category":"Home & Travel",
+"sub_category":"Wholesale Dog Beds",
+"sub_sub_category":"Wholesale Nesting Dog Beds",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/wholesale-dog-beds/nesting-beds",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":57,
+"category":"Home & Travel",
+"sub_category":"Wholesale Dog Beds",
+"sub_sub_category":"Wholesale Round Beds",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/wholesale-dog-beds/round-beds",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":58,
+"category":"Home & Travel",
+"sub_category":"Wholesale Dog Beds",
+"sub_sub_category":"Wholesale Orthopedic Dog Beds",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/wholesale-dog-beds/orthopedic-beds",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":59,
+"category":"Home & Travel",
+"sub_category":"Wholesale Dog Beds",
+"sub_sub_category":"Wholesale Outdoor Dog Beds",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/wholesale-dog-beds/outdoor-beds",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":60,
+"category":"Home & Travel",
+"sub_category":"Wholesale Dog Beds",
+"sub_sub_category":"Wholesale Specialty Dog Beds",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/wholesale-dog-beds/specialty-beds",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":61,
+"category":"Home & Travel",
+"sub_category":"Wholesale Dog Crates",
+"sub_sub_category":"Metal Crates",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/crates/metal-crates-334",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":62,
+"category":"Home & Travel",
+"sub_category":"Wholesale Dog Crates",
+"sub_sub_category":"Fabric Crates",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/crates/fabric-crates-329",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":63,
+"category":"Home & Travel",
+"sub_category":"Wholesale Dog Crates",
+"sub_sub_category":"Plastic Crates",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/crates/plastic-crates-343",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":64,
+"category":"Home & Travel",
+"sub_category":"Wholesale Dog Crates",
+"sub_sub_category":"Specialty Crates",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/crates/specialty-crates-348",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":65,
+"category":"Home & Travel",
+"sub_category":"Wholesale Dog Crates",
+"sub_sub_category":"Crate Accessories",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/crates/crate-accessories-324",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":66,
+"category":"Home & Travel",
+"sub_category":"Wholesale Food & Water Products",
+"sub_sub_category":"Bowls and Dishes",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/food-and-water/bowls-and-dishes-321",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":67,
+"category":"Home & Travel",
+"sub_category":"Wholesale Food & Water Products",
+"sub_sub_category":"Diners",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/food-and-water/diners",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":68,
+"category":"Home & Travel",
+"sub_category":"Wholesale Food & Water Products",
+"sub_sub_category":"Portion Control",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/food-and-water/portion-control-345",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":69,
+"category":"Home & Travel",
+"sub_category":"Wholesale Food & Water Products",
+"sub_sub_category":"Feed Accessories",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/food-and-water/feed-accessories-330",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":70,
+"category":"Home & Travel",
+"sub_category":"Wholesale Food & Water Products",
+"sub_sub_category":"Food Storage",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/food-and-water/food-storage-352",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":71,
+"category":"Home & Travel",
+"sub_category":"Wholesale Food & Water Products",
+"sub_sub_category":"Waterers",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/food-and-water/waterers-351",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":72,
+"category":"Home & Travel",
+"sub_category":"Wholesale Food & Water Products",
+"sub_sub_category":"Pails",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/food-and-water/pails-497",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":73,
+"category":"Home & Travel",
+"sub_category":"Wholesale Dog Containment",
+"sub_sub_category":"Exercise Pens",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/containment/exercise-pens-328",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":74,
+"category":"Home & Travel",
+"sub_category":"Wholesale Dog Containment",
+"sub_sub_category":"Playpens",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/containment/playpens-344",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":75,
+"category":"Home & Travel",
+"sub_category":"Wholesale Dog Containment",
+"sub_sub_category":"Gates",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/containment/gates",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":76,
+"category":"Home & Travel",
+"sub_category":"Wholesale Dog Containment",
+"sub_sub_category":"Stairs, Steps & Ramps",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/containment/stairs-steps-ramps",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":77,
+"category":"Home & Travel",
+"sub_category":"Wholesale Dog Travel Products",
+"sub_sub_category":"Pet Carriers",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/travel/pet-carriers",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":78,
+"category":"Home & Travel",
+"sub_category":"Wholesale Dog Travel Products",
+"sub_sub_category":"Food & Water Containers",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/travel/food-and-water-containers",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":79,
+"category":"Home & Travel",
+"sub_category":"Wholesale Dog Travel Products",
+"sub_sub_category":"Seat Covers & Barriers",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/travel/seat-covers-and-barriers",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":80,
+"category":"Home & Travel",
+"sub_category":"Wholesale Dog Travel Products",
+"sub_sub_category":"Car Harnesses",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/travel/car-harnesses",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":81,
+"category":"Home & Travel",
+"sub_category":"Outdoor Products",
+"sub_sub_category":"Stakes & Tie Outs, Tethering",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/outdoor-products/stakes-tie-outs",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":82,
+"category":"Home & Travel",
+"sub_category":"Outdoor Products",
+"sub_sub_category":"Outdoor Beds",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/outdoor-products/outdoor-beds",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":83,
+"category":"Home & Travel",
+"sub_category":"Outdoor Products",
+"sub_sub_category":"Outdoor Accessories",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/outdoor-products/outdoor-accessories",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":84,
+"category":"Home & Travel",
+"sub_category":"Cat Home & Travel",
+"sub_sub_category":"Savvy Tabby Scratchers",
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/cat-home-and-travel/savvy-tabby-scratchers",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":85,
+"category":"Home & Travel",
+"sub_category":"Retailer Exclusives Auto & Travel",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/travel/retailer-exclusives-travel",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":86,
+"category":"Home & Travel",
+"sub_category":"Retailer Exclusives Stakes & Tie Outs",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/home-and-travel-dealer/outdoor-products/retailer-exclusive-stakes-tie-outs",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":87,
+"category":"Health & Safety",
+"sub_category":"Pet Health",
+"sub_sub_category":"Pet Suppliments",
+"url":"https://www.bosspetedge.com/health/supplements/assorted-supplements-294",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":88,
+"category":"Health & Safety",
+"sub_category":"Pet Health",
+"sub_sub_category":"Flea & Tick",
+"url":"https://www.bosspetedge.com/health/flea-and-tick/flea-shampoos-and-sprays",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":89,
+"category":"Health & Safety",
+"sub_category":"Dog Dental",
+"sub_sub_category":"Dental Treats",
+"url":"https://www.bosspetedge.com/health/dental-products/dental-treats",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":90,
+"category":"Health & Safety",
+"sub_category":"Dog Dental",
+"sub_sub_category":"Dental Chews",
+"url":"https://www.bosspetedge.com/health/dental-products/dental-chews",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":91,
+"category":"Health & Safety",
+"sub_category":"Dog Dental",
+"sub_sub_category":"Sprays, Gels and Rinses",
+"url":"https://www.bosspetedge.com/health/dental-products/sprays-gels-and-rinses",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":92,
+"category":"Health & Safety",
+"sub_category":"Dog Dental",
+"sub_sub_category":"Toothbrushes and Toothpaste",
+"url":"https://www.bosspetedge.com/health/dental-products/toothbrushes-and-toothpaste",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":93,
+"category":"Health & Safety",
+"sub_category":"Pet Eye Care",
+"sub_sub_category":"Wholesale Dog Eye Wipes and Washes",
+"url":"https://www.bosspetedge.com/health/eye-care/eye-wipes-and-washes-304",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":94,
+"category":"Health & Safety",
+"sub_category":"Pet Ear Care",
+"sub_sub_category":"Wholesale Assorted Ear Care",
+"url":"https://www.bosspetedge.com/health/ear-care/assorted-ear-care-292",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":95,
+"category":"Health & Safety",
+"sub_category":"Pet Ear Care",
+"sub_sub_category":"Wholesale Ear Powder",
+"url":"https://www.bosspetedge.com/health/ear-care/ear-powder-302",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":96,
+"category":"Health & Safety",
+"sub_category":"Pet Ear Care",
+"sub_sub_category":"Wholesale Ear Wash",
+"url":"https://www.bosspetedge.com/health/ear-care/ear-wash",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":97,
+"category":"Health & Safety",
+"sub_category":"Medical Supplies",
+"sub_sub_category":"Medical Equipment",
+"url":"https://www.bosspetedge.com/health/medical-supplies/medical-equipment-309",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":98,
+"category":"Health & Safety",
+"sub_category":"Medical Supplies",
+"sub_sub_category":"Styptics & Stop Bleeding",
+"url":"https://www.bosspetedge.com/health/medical-supplies/styptics-and-stop-bleeding-317",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":99,
+"category":"Health & Safety",
+"sub_category":"Safety",
+"sub_sub_category":"Stain & Odor ",
+"url":"https://www.bosspetedge.com/health/housetraining/stain-and-odor-control-316",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":100,
+"category":"Health & Safety",
+"sub_category":"Safety",
+"sub_sub_category":"Cleaning Tools",
+"url":"https://www.bosspetedge.com/housetraining/cleaning-tools-381",
+"add_url":"1",
+"processed":1,
+"checked":1
+},
+{ 
+"id":101,
+"category":"Health & Safety",
+"sub_category":"Safety",
+"sub_sub_category":"Disinfectants",
+"url":"https://www.bosspetedge.com/dog-grooming/dog-groomer-cleaning-supplies/disinfectants",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":102,
+"category":"Health & Safety",
+"sub_category":"Safety",
+"sub_sub_category":"Masks",
+"url":"https://www.bosspetedge.com/safety-first/masks",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":103,
+"category":"Health & Safety",
+"sub_category":"Safety",
+"sub_sub_category":"Hand Sanitizers",
+"url":"https://www.bosspetedge.com/dog-grooming/hand-sanitizers",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":104,
+"category":"Health & Safety",
+"sub_category":"Safety",
+"sub_sub_category":"Safety Signs",
+"url":"https://www.bosspetedge.com/business-signs",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":105,
+"category":"Waste Cleanup",
+"sub_category":"Wholesale Pet House Training",
+"sub_sub_category":"Diapers & Pup Pants",
+"url":"https://www.bosspetedge.com/housetraining/diapers-and-pup-pants-383",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":106,
+"category":"Waste Cleanup",
+"sub_category":"Wholesale Pet House Training",
+"sub_sub_category":"Stain & Odor Control",
+"url":"https://www.bosspetedge.com/housetraining/stain-and-odor-control-390",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":107,
+"category":"Waste Cleanup",
+"sub_category":"Wholesale Pet House Training",
+"sub_sub_category":"Disinfectants",
+"url":"https://www.bosspetedge.com/housetraining/disinfectants-384",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":108,
+"category":"Waste Cleanup",
+"sub_category":"Wholesale Pet Waste Removal",
+"sub_sub_category":"Waste Bags",
+"url":"https://www.bosspetedge.com/waste-and-cleanup/waste-bags",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":109,
+"category":"Waste Cleanup",
+"sub_category":"Wholesale Pet Waste Removal",
+"sub_sub_category":"Waste Bag Holders",
+"url":"https://www.bosspetedge.com/waste-and-cleanup/waste-bag-holders",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":110,
+"category":"Waste Cleanup",
+"sub_category":"Wholesale Pet Waste Removal",
+"sub_sub_category":"Scoops",
+"url":"https://www.bosspetedge.com/waste-and-cleanup/scoops",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":111,
+"category":"Waste Cleanup",
+"sub_category":"Wholesale Pet Waste Removal",
+"sub_sub_category":"Lawn Protection",
+"url":"https://www.bosspetedge.com/outdoor-dog-products/lawn-protection",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":112,
+"category":"Waste Cleanup",
+"sub_category":"Wholesale Pet Waste Removal",
+"sub_sub_category":"Displays",
+"url":"https://www.bosspetedge.com/waste-and-cleanup/displays",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":113,
+"category":"Waste Cleanup",
+"sub_category":"Wholesale Pet Waste Removal",
+"sub_sub_category":"Assorted Waste Products",
+"url":"https://www.bosspetedge.com/waste-and-cleanup/assorted-waste-products",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":114,
+"category":"Waste Cleanup",
+"sub_category":"Retailer Exclusive Waste Cleanup",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/waste-cleanup/retailer-exclusive-waste-cleanup",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":115,
+"category":"Waste Cleanup",
+"sub_category":"Alpha Key Brands",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/waste-cleanup/alpha-key-brands",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":116,
+"category":"Waste Cleanup",
+"sub_category":"All Waste Cleanup Products",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/waste-cleanup",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":117,
+"category":"Waste Cleanup",
+"sub_category":"All New Waste Cleanup Products",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/waste-cleanup/new-waste-cleanup-products",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":118,
+"category":"Grooming",
+"sub_category":"Clippers",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/grooming/clippers",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":119,
+"category":"Grooming",
+"sub_category":"Blades",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/grooming/blades",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":120,
+"category":"Grooming",
+"sub_category":"Clipper & Blade Accessories",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/grooming-dealer/clipper-blade-accessories",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":121,
+"category":"Grooming",
+"sub_category":"Clipper & Blade Replacement Parts",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/grooming-dealer/clipper-parts",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":122,
+"category":"Grooming",
+"sub_category":"Shampoo",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/grooming/shampoos",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":123,
+"category":"Grooming",
+"sub_category":"Grooming Tools",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/grooming/grooming-tools",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":124,
+"category":"Grooming",
+"sub_category":"Nail Care",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/grooming/nail-care",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":125,
+"category":"Grooming",
+"sub_category":"Shears",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/grooming/shears",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":126,
+"category":"Grooming",
+"sub_category":"Tables",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/grooming/tables",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":127,
+"category":"Grooming",
+"sub_category":"Tubs & Bathing",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/grooming/tubs-bathing",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":128,
+"category":"Grooming",
+"sub_category":"Dryers",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/grooming/dryers",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":129,
+"category":"Grooming",
+"sub_category":"Replacement Parts",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/grooming/replacement-parts",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":130,
+"category":"Grooming",
+"sub_category":"Professional Cages",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/grooming/professional-cages",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":131,
+"category":"Grooming",
+"sub_category":"Grooming Apparel",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/grooming/grooming-apparel",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":132,
+"category":"Grooming",
+"sub_category":"Business Aids",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/grooming/business-aids",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":133,
+"category":"Grooming",
+"sub_category":"New Grooming",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/grooming-dealer/new-grooming-products",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":134,
+"category":"Grooming",
+"sub_category":"All Grooming",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/grooming/all-grooming",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":135,
+"category":"Specials",
+"sub_category":"Grooming Free Offers",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/free-offers/grooming",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":136,
+"category":"Specials",
+"sub_category":"Shampoo Free Offers",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/free-offers/shampoos-finishing",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":137,
+"category":"Specials",
+"sub_category":"Health Free Offers",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/free-offers/health",
+"add_url":"1",
+"processed":1,
+"checked":0
+},
+{ 
+"id":138,
+"category":"Specials",
+"sub_category":"Made in USA",
+"sub_sub_category":null,
+"url":"https://www.bosspetedge.com/made-in-usa",
+"add_url":"1",
+"processed":1,
+"checked":0
+}]
